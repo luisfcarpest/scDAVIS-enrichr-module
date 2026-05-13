@@ -29,6 +29,6 @@ The implementation supports multiple gene input strategies, interactive enrichme
 - **DT**
 
 ## Repository Structure
-module_enrichR.R   # EnrichR module implementation
-server.R           # Main server integration (changes made from the original server.R for the new module integration)
-ui.R               # User interface integration (changes made from the original ui.R for the new module integration)
+- module_enrichR.R   # EnrichR module implementation
+- server.R           # Main server integration (changes made from the original server.R for the new module integration)
+- ui.R               # User interface integration (changes made from the original ui.R for the new module integration)
